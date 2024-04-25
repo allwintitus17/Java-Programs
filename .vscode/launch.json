@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "pattern11",
+            "request": "launch",
+            "mainClass": "pattern11",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
             "name": "pattern10",
             "request": "launch",
             "mainClass": "pattern10",
