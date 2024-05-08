@@ -1,4 +1,4 @@
-public class Strings {
+public class String1 {
     public static void main(String[] args) {
         System.out.println("Strings Concepts");
         String s1="AllwinTitus";

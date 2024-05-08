@@ -6,6 +6,181 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array9",
+            "request": "launch",
+            "mainClass": "array9",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array8",
+            "request": "launch",
+            "mainClass": "array8",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array7",
+            "request": "launch",
+            "mainClass": "array7",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array6",
+            "request": "launch",
+            "mainClass": "array6",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array5",
+            "request": "launch",
+            "mainClass": "array5",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array4",
+            "request": "launch",
+            "mainClass": "array4",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array3",
+            "request": "launch",
+            "mainClass": "array3",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "array2",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "array1",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "Asscii4",
+            "request": "launch",
+            "mainClass": "Asscii4",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "Asscii3",
+            "request": "launch",
+            "mainClass": "Asscii3",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "Asscii2",
+            "request": "launch",
+            "mainClass": "Asscii2",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "pattern12",
+            "request": "launch",
+            "mainClass": "pattern12",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "Asscii",
+            "request": "launch",
+            "mainClass": "Asscii",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String12",
+            "request": "launch",
+            "mainClass": "String12",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String11",
+            "request": "launch",
+            "mainClass": "String11",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String10",
+            "request": "launch",
+            "mainClass": "String10",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String9",
+            "request": "launch",
+            "mainClass": "String9",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String8",
+            "request": "launch",
+            "mainClass": "String8",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String7",
+            "request": "launch",
+            "mainClass": "String7",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String6",
+            "request": "launch",
+            "mainClass": "String6",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String5",
+            "request": "launch",
+            "mainClass": "String5",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String4",
+            "request": "launch",
+            "mainClass": "String4",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String3",
+            "request": "launch",
+            "mainClass": "String3",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
+            "name": "String2",
+            "request": "launch",
+            "mainClass": "String2",
+            "projectName": "java projects and tutorial_93ba34df"
+        },
+        {
+            "type": "java",
             "name": "Strings",
             "request": "launch",
             "mainClass": "Strings",
